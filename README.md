@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">A want to be Data Scientist</h3>
 
 <p align="left"> <a href="https://twitter.com/wavevlr" target="blank"><img src="https://img.shields.io/twitter/follow/wavevlr?logo=twitter&style=for-the-badge" alt="wavevlr" /></a> </p>
 

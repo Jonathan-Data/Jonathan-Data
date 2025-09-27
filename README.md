@@ -1,6 +1,6 @@
 ## I am Jonathan.
 
-## Currently studying at 42 Belgium
+## Currently projects at 42 Belgium
 
 | Project Name      | Language   | Grade            |
 |-------------------|------------|------------------|

@@ -1,4 +1,6 @@
 ## Hello, I am Jonathan.
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jonathan-Data&label=Profile%20views&color=0e75b6&style=flat" alt="visitor-count" /> </p>
 
 ## Languages & Frameworks

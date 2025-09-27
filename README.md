@@ -35,6 +35,6 @@
 
 | Project Name       | Language   | Progress         |
 |------------------- |------------|------------------|
-| SPDRUN             | TypeScript | ⚠️ ON HOLD       |
-| VCT Match Predictor| Python     | 🧪 IN TESTING    |
 | MotchkiBot         | Python     | ✅ Finished      |
+| VCT Match Predictor| Python     | 🧪 In testing    |
+| SPDRUN             | TypeScript | ⚠️ On hold       |

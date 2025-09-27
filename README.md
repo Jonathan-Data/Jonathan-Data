@@ -36,5 +36,6 @@
 | Project Name       | Language   | Progress         |
 |------------------- |------------|------------------|
 | MotchkiBot         | Python     | ✅ Finished      |
+| Neural Network     | Python     | ✅ Finished      |
 | VCT Match Predictor| Python     | 🧪 In testing    |
 | SPDRUN             | TypeScript | ⚠️ On hold       |

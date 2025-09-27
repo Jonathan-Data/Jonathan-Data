@@ -2,7 +2,7 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  (https://visitor-badge.laobi.icu/badge?page_id=Jonathan-Data.Jonathan-Data)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jonathan-Data.Jonathan-Data)
 </div>
 
 ## Current projects at 42 Belgium

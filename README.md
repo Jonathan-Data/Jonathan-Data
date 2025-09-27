@@ -2,7 +2,7 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{Jonathan-Data}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/Jonathan-Data/count.svg" alt="Visitor's Count" />
 </div>
 
 ## Currently projects at 42 Belgium

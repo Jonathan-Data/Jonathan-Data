@@ -1,6 +1,6 @@
 ## I am Jonathan.
 
-## Current 42 Belgium projects�
+## Current 42 Belgium projects
 
 | Project Name      | Language   | Grade            |
 |-------------------|------------|------------------|

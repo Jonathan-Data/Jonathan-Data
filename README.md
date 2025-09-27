@@ -1,5 +1,7 @@
 ## Hello, I am Jonathan.
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jonathan-Data&label=Profile%20views&color=0e75b6&style=flat" alt="visitor-count" /> </p>
+
 ## Current projects at 42 Belgium
 
 | Project Name      | Language   | Grade            |

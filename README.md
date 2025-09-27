@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=Jonathan-Data&label=Profile%20views&color=0e75b6&style=flat" alt="visitor-count" />
 </div>
 
-## Current projects at 42 Belgium
+## Current projects
 
 ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) 
 | Project Name      | Language   | Grade            |
@@ -36,7 +36,6 @@
 | Minishell         | C          | 🔄 In progress   |
 | Exam 04           | C          | 🔄 In progress   |
 
-## Current personal projects
 
 | Project Name       | Language   | Progress         |
 |------------------- |------------|------------------|

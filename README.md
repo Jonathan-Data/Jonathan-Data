@@ -1,7 +1,10 @@
 # Hello, I am Jonathan.
-  <div align="center">
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Data&show_icons=true&count_private=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+
+<div align="center">
+
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Data&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ## Languages & Frameworks
 <div align="center">

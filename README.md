@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Data&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Data&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

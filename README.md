@@ -1,9 +1,9 @@
-## Hello, I am Jonathan.
+# Hello, I am Jonathan.
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jonathan-Data&label=Profile%20views&color=0e75b6&style=flat" alt="visitor-count" />
   </div>
 
-# Languages & Frameworks
+## Languages & Frameworks
 <div align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />

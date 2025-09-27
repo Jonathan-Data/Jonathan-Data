@@ -2,10 +2,10 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Jonathan-Data/count.svg" alt="Visitor's Count" />
+  (https://visitor-badge.laobi.icu/badge?page_id=Jonathan-Data.Jonathan-Data)
 </div>
 
-## Currently projects at 42 Belgium
+## Current projects at 42 Belgium
 
 | Project Name      | Language   | Grade            |
 |-------------------|------------|------------------|

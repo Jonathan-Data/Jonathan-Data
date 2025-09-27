@@ -4,10 +4,10 @@
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Data&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
- 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Jonathan-Data&label=Profile%20views&color=0e75b6&style=flat" alt="visitor-count" />
 </div>
+
 
 <div align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> 

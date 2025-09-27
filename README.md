@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-
 </div>
 
 ## Current projects at 42 Belgium
@@ -31,3 +30,11 @@
 | Philosophers      | C          | ✅ 100 Points    |
 | Minishell         | C          | 🔄 In progress   |
 | Exam 04           | C          | 🔄 In progress   |
+
+## Current personal projects
+
+| Project Name       | Language   | Progress         |
+|------------------- |------------|------------------|
+| SPDRUN             | TypeScript | ⚠️ ON HOLD       |
+| VCT Match Predictor| Python     | 🧪 IN TESTING    |
+| MotchkiBot         | Python     | ✅ Finished      |

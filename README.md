@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jonathan-Data&label=Profile%20views&color=0e75b6&style=flat" alt="visitor-count" /> </p>
 
-## Current projects at 42 Belgium
+## ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) Current projects at 42 Belgium
 
 | Project Name      | Language   | Grade            |
 |-------------------|------------|------------------|

@@ -19,6 +19,14 @@
 
 ## Current projects
 
+| Project Name       | Language   | Progress         |
+|------------------- |------------|------------------|
+| MotchkiBot         | Python     | ✅ Finished      |
+| Neural Network     | Python     | ✅ Finished      |
+| VCT Match Predictor| Python     | 🧪 In testing    |
+| SPDRUN             | TypeScript | ⚠️ On hold       |
+
+
 ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) 
 | Project Name      | Language   | Grade            |
 |-------------------|------------|------------------|
@@ -36,10 +44,3 @@
 | Minishell         | C          | 🔄 In progress   |
 | Exam 04           | C          | 🔄 In progress   |
 
-
-| Project Name       | Language   | Progress         |
-|------------------- |------------|------------------|
-| MotchkiBot         | Python     | ✅ Finished      |
-| Neural Network     | Python     | ✅ Finished      |
-| VCT Match Predictor| Python     | 🧪 In testing    |
-| SPDRUN             | TypeScript | ⚠️ On hold       |

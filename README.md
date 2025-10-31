@@ -41,6 +41,6 @@
 | Minitalk          | C          | ✅ 100 Points    |
 | Exam 03           | C          | ✅ Passed        |
 | Philosophers      | C          | ✅ 100 Points    |
-| Minishell         | C          | 🔄 In progress   |
+| Minishell         | C          | ✅ 100 Points    |
 | Exam 04           | C          | 🔄 In progress   |
 

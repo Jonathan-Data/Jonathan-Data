@@ -23,7 +23,7 @@
 |------------------- |------------|------------------|
 | Neural Network     | Python     | ✅ Finished      |
 | MotchkiBot         | Python     | ✅ Finished      |
-| VCT Match Predictor| Python     | 🧪 In testing    |
+| VCT Match Predictor| Python     | ❌ Scrapped      |
 | SPDRUN             | TypeScript | ⚠️ On hold       |
 
 
@@ -42,5 +42,5 @@
 | Exam 03           | C          | ✅ Passed        |
 | Philosophers      | C          | ✅ 100 Points    |
 | Minishell         | C          | ✅ 100 Points    |
-| Exam 04           | C          | 🔄 In progress   |
+| Exam 04           | C          | ✅ 100 Points    |
 

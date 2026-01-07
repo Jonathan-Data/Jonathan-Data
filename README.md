@@ -42,7 +42,7 @@
 | Minishell         | C          | ✅ 100 Points    |
 | Exam 04           | C          | ✅ 100 Points    |
 | Net Practice      | Networking | ❌ Not Started   |
-| Cpp 0-4           | Networking | ⚠️ In Progress   |
+| Cpp 0-4           | C++        | ⚠️ In Progress   |
 | Cub3D             | C          | ❌ Not Started   |
 
 

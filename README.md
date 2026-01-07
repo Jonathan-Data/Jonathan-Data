@@ -1,7 +1,5 @@
 # Hello, I am Jonathan.
 <div align="center">
-  
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Data&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
  
@@ -43,4 +41,8 @@
 | Philosophers      | C          | ✅ 100 Points    |
 | Minishell         | C          | ✅ 100 Points    |
 | Exam 04           | C          | ✅ 100 Points    |
+| Net Practice      | Networking | ❌ Not Started   |
+| Cpp 0-4           | Networking | ⚠️ In Progress   |
+| Cub3D             | C          | ❌ Not Started   |
+
 

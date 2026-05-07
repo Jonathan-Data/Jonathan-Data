@@ -40,6 +40,6 @@
 | Exam 04           | C          | ✅ 100 Points    |
 | Net Practice      | Networking | ❌ Not Started   |
 | Cpp 0-4           | C++        | ⚠️ In Progress   |
-| Cub3D             | C          | ❌ Not Started   |
+| Cub3D             | C          | ⚠️ In Progress   |
 
 

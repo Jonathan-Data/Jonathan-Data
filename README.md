@@ -17,7 +17,7 @@
 | Project Name       | Language   | Progress         |
 |------------------- |------------|------------------|
 | Neural Network     | Python     | ✅ Finished      |
-| VCT Match Predictor| Python     | ❌ Scrapped      |
+| Match Predictor| Python     | ❌ Scrapped      |
 | SPDRUN             | TypeScript | ⚠️ On hold       |
 
 
@@ -37,8 +37,8 @@
 | Philosophers      | C          | ✅ 100 Points    |
 | Minishell         | C          | ✅ 100 Points    |
 | Exam 04           | C          | ✅ 100 Points    |
-| Net Practice      | Networking | ❌ Not Started   |
-| Cpp 0-4           | C++        | ⚠️ In Progress   |
-| Cub3D             | C          | ⚠️ In Progress   |
+| Net Practice      | Networking | ✅ 100 Points   |
+| Cpp 0-4           | C++        | ✅ 100 Points   |
+| Cub3D             | C          | ✅ 100 Points   |
 
 
